@@ -1,10 +1,18 @@
-hi{
-  color: pink;
+h1{
+  color:blue;
 font-size: 64px;
 }
 
-h2{
-  color:red;
-font-size: 12px;
+.html-title{
+  color: orange;
 }
 
+p{
+  font-family: serif;
+  font-weight:bold ;
+  text-decoration: underline;
+}
+
+.main {
+  background-image:url("‪C:\Users\elley\OneDrive\デスクトップ\Google画像_html用.png") ;
+}
